@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Deapp</string>
+    <string name="app_name">Dice</string>
+    <string name="dice">roll the dice</string>
+    <string name="dea"> </string>
+    <string name="nfaces"> sided faces </string>
+    <string name="settings"> Settings </string>
+    <string name="search"> Search </string>
+    <string name="soon"> Soon </string>
 </resources>
