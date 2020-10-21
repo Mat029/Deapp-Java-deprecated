@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dé</string>
+    <string name="dice" >lancer le dé</string>
+    <string name="dea" >Dé à </string>
+    <string name="nfaces" > faces </string>
+    <string name="settings" > Paramètres </string>
+    <string name="search" > Rechercher </string>
+    <string name="soon"> Bientôt </string>
+</resources>
